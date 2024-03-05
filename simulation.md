@@ -7,9 +7,11 @@ description: >-
 
 # Simulation
 
-This is a link to a URDF loader for three.js\
-[https://www.npmjs.com/package/urdf-loader](https://www.npmjs.com/package/urdf-loader)\
+About URDF\
+[https://chat.openai.com/share/22cbef87-4c72-483c-bfd9-f5ed9caae2bd](https://chat.openai.com/share/22cbef87-4c72-483c-bfd9-f5ed9caae2bd)
 
+This is a link to a URDF loader for three.js\
+[https://www.npmjs.com/package/urdf-loader](https://www.npmjs.com/package/urdf-loader)
 
 ```javascript
 // PID Controller in pure Javascript. To be integrated with threlte
