@@ -6,4 +6,4 @@
 * [Communication and Connectivity](communication-and-connectivity.md)
 * [P2P WiFi Networking](p2p-wifi-networking.md)
 * [Simulation](simulation.md)
-* [Motor Thrust Calculation](motor-thrust-calculation.md)
+* [Drone Calculations](drone-calculations.md)
