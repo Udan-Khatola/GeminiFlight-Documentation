@@ -16,9 +16,35 @@ GeminiFlight is an innovative open-source drone ecosystem designed to provide a 
 * Long-range WiFi for pilot communication and 4G IoT for BVLOS capabilities.
 * NPNT compliance and readiness for BVLOS operations in compliance with future regulations.
 
+### GeminiFlight is for:
+
+* Manufacturers,
+* Entrepreneurs,
+* Researchers,
+* Trainers, and
+* Hobbyists
+
 ## Getting Started
 
 ## Design Philosophy
+
+* **Highly Cost Effective**
+  * Ground-up redesign of the modern flight controller with the benefit of hindsight
+  * Bring down hardware cost and the complexity of the development and iteration process
+  * Focus on eliminating components using System-On-Module(SOM) boards
+  * Use Commercial-Off-The-Shelf(COTS) components to support global use
+* **Maximize Development Speed**
+  * Optimize for developer readability, hackability, and maintainability over absolute code performance
+  * Use popular programming languages
+  * Use a visual programming paradigm
+* **Maintain Modularity & Interoperability**
+  * Each component of the GeminiFlight Ecosystem should be capable of being used independently.
+  * Must have at least second class interoperability with existing drone technologies.
+* **Most advanced features**
+  * Flatten the learning curve for becoming a pilot
+  * Develop a high level programming interface for the user to be able to visually program missions and adapt to using different payloads.
+  * Provide FPV for every drone&#x20;
+  * Integrate with the Indian Infrastructure to use NAVIC and include NPNT2.0 Compliance and BVLOS-first operations
 
 ## Roadmap
 
