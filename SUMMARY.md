@@ -11,3 +11,4 @@
   * [P2P WiFi Networking](autonomous-guidance-system/p2p-wifi-networking.md)
 * [Simulation](simulation.md)
 * [Drone Calculations](drone-calculations.md)
+* [Swarming](swarming.md)
