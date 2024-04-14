@@ -2,7 +2,7 @@
 
 ## Introduction
 
-GeminiFlight is an innovative open-source drone ecosystem designed to provide a comprehensive solution for drone enthusiasts and professionals. This ecosystem comprises hardware, firmware, and software components, with a unique architecture that separates the traditional flight controller into two distinct units: the [Flight Stabilization System (FSS)](flight-stabilization-system/) and the [Autonomous Guidance System (AGS)](autonomous-guidance-system/).
+GeminiFlight is an innovative open-source drone ecosystem designed to provide a comprehensive solution for drone enthusiasts and professionals. This ecosystem comprises hardware, firmware, and software components, with a unique architecture that separates the traditional flight controller into two distinct units: the [Flight Stabilization System (FSS)](flight-stabilization-system/flight-stabilization-system.md) and the [Autonomous Guidance System (AGS)](autonomous-guidance-system/autonomous-guidance-system.md).
 
 ## Features
 
