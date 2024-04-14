@@ -8,6 +8,8 @@
 * [Build Pathfinder Mk1 DevKit](guides/build-pathfinder-mk1-devkit.md)
 * [Add Custom Airframe](guides/add-custom-airframe.md)
 * [Make Custom PCB](guides/make-custom-pcb.md)
+* [Drone Calculations](guides/drone-calculations.md)
+* [Simulation](guides/simulation.md)
 
 ## Flight Stabilization System
 
@@ -25,8 +27,3 @@
 * [Kalman Filter](autonomous-guidance-system/kalman-filter.md)
 * [P2P WiFi Networking](autonomous-guidance-system/p2p-wifi-networking.md)
 * [Swarming](autonomous-guidance-system/swarming.md)
-
-***
-
-* [Simulation](simulation.md)
-* [Drone Calculations](drone-calculations.md)
